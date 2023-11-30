@@ -17,3 +17,5 @@
 * [x] printLongestWordTop100 메서드 구현 
 * [x] isPresent(), map(), filter() 사용해서 ageIsInRange2 메서드 구현 
 * [x] Optional에서 exception 처리 구현 
+* [x] FunctionalInterface 어노테이션 추가 
+* [x] indent 하나로 나오게 for문안에 if절 method 분리
